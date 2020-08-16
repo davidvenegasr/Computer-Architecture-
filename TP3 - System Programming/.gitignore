@@ -1,0 +1,6 @@
+*.img
+*.o
+*.tsk
+*.bin
+*.sym
+*.log
