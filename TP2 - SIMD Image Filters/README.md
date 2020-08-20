@@ -2,9 +2,9 @@
 
 Filtros para esteganografia utilizando ASM e instucciones SIMD. Filtros de tipo:
 
--OCULTAR 
--DESCUBRUR
--ZIGZAG 
+-OCULTAR  
+-DESCUBRIR 
+-ZIGZAG  
 
 Se incluye informe con analisis de rendimiento vs diferentes compiladores. 
 
