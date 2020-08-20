@@ -1,0 +1,1 @@
+Para poder replicar los experimentos, se deben ejecutar uno por uno los scripts en la carpeta exps/ sin ningun parametro extra de salida

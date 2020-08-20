@@ -1,0 +1,6 @@
+0 = [NULL,hawai,hawai,hellohello]
+1 = [a,hawai1,hello1hello]
+2 = []
+3 = []
+4 = [hola]
+
